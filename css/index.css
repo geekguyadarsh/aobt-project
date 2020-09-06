@@ -287,6 +287,7 @@ nav ul li a {
 
 .footer {
   background-color: #033666;
+  overflow-x: hidden;
   padding: 0.8em 0;
 }
 
